@@ -81,7 +81,7 @@ const Contact = () => {
                   <MapPin className="h-5 w-5 text-sky-600 mr-3" />
                   <div>
                     <div className="font-semibold">Address</div>
-                    <div className="text-gray-600">123 Pool Lane<br />Los Angeles, CA 90210</div>
+                    <div className="text-gray-600">123 Pool Lane<br />Tashkent, Uzbekistan</div>
                   </div>
                 </div>
                 
